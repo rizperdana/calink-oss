@@ -1,0 +1,11 @@
+{
+  "name": "calink-oss",
+  "version": "1.0.0",
+  "description": "One single open source app for you own link on bio",
+  "main": "index.js",
+  "author": "rizperdana",
+  "license": "MIT",
+  "dependencies": {
+    "husky": "^7.0.4"
+  }
+}
